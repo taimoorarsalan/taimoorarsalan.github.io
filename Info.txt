@@ -1,0 +1,22 @@
+        My Website for class project
+
+
+Personal Information
+
+
+Name:                   Eisa Mohammad
+F/name :               Gul Mohammad
+class:                    third
+Department:            IS
+     
+
+
+information about the site
+
+
+this website has been built with only Html and Css 
+ for all pages i have  a separate css page all the css codes for 
+the website are written there 
+the website has banner,menu,sidebars,content and footer
+in style folder there are some images and css codes file for the website
+
